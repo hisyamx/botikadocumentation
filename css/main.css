@@ -82,7 +82,7 @@ h5 {
     padding: 1.5em 0.75em 1em 0.75em;
     background: #fff;
     color: #0c0c0c;
-    border-bottom: 1px solid #e0e4e8;
+    border-bottom: 1px solid #f5f5fa;
 }
 
 .wrapper .main_content .info {
@@ -95,12 +95,15 @@ h5 {
     margin-bottom: 20px;
 }
 
-.wrapper .main_content .info .highlight {}
+
+/* .wrapper .main_content .info .highlight {} */
 
 .highlight {
     padding: 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
-    background-color: #f8f9fa;
+    background-color: #f5f5fa;
     -ms-overflow-style: -ms-autohiding-scrollbar;
+    font-weight: 400;
+    font-size: 15px;
 }
