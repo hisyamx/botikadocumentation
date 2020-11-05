@@ -94,3 +94,13 @@ h5 {
 .wrapper .main_content .info div {
     margin-bottom: 20px;
 }
+
+.wrapper .main_content .info .highlight {}
+
+.highlight {
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #f8f9fa;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}
